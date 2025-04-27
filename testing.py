@@ -6,3 +6,4 @@ def modfp(x):
     return(integerPart , fractionPart)
 
 print(modfp(1.05))
+
